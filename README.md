@@ -45,13 +45,13 @@ A análise dos mapas de calor revela um padrão dominante, com a região Sudeste
 
 ## 🛠️ Ferramentas e Plataformas Utilizadas
 
-* ** Plataforma de Desenvolvimento:** [Google Colaboratory (Colab)](https://colab.research.google.com/) - Um ambiente Python gratuito baseado na nuvem que permite executar notebooks Jupyter no navegador.
-* ** Bibliotecas Python:**
+* **Plataforma de Desenvolvimento:** [Google Colaboratory (Colab)](https://colab.research.google.com/) - Um ambiente Python gratuito baseado na nuvem que permite executar notebooks Jupyter no navegador.
+* **Bibliotecas Python:**
     * `pandas`: Para manipulação e análise de dados tabulares.
-    * `matplotlib`: Para criação de gráficos e visualizações 📈.
-    * `seaborn`: Para aprimorar a estética dos gráficos matplotlib 🎨.
-* ** Fonte de Pesquisa e Assistência:** [Gemini](https://gemini.google.com/) - Modelo de linguagem grande utilizado como assistente para auxiliar na elaboração do código, na compreensão de conceitos e na estruturação do relatório.
-* ** Plataforma de Aprendizado:** [Alura](https://www.alura.com.br/) - A plataforma Alura foi utilizada como fonte de aprendizado e referência para conceitos de análise de dados e programação em Python, auxiliando na construção de um projeto robusto e bem fundamentado.
+    * `matplotlib`: Para criação de gráficos e visualizações.
+    * `seaborn`: Para aprimorar a estética dos gráficos matplotlib.
+* **Fonte de Pesquisa e Assistência:** [Gemini](https://gemini.google.com/) - Modelo de linguagem grande utilizado como assistente para auxiliar na elaboração do código, na compreensão de conceitos e na estruturação do relatório.
+* **Plataforma de Aprendizado:** [Alura](https://www.alura.com.br/) - A plataforma Alura foi utilizada como fonte de aprendizado e referência para conceitos de análise de dados e programação em Python, auxiliando na construção de um projeto robusto e bem fundamentado.
 
 ## 💻 Estrutura do Código
 
