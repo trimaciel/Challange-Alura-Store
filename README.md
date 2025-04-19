@@ -41,7 +41,7 @@ Para explorar a distribuição geográfica das vendas de cada loja, foram gerado
 
 A análise dos mapas de calor revela um padrão dominante, com a região Sudeste do Brasil apresentando a maior concentração de densidade de vendas para todas as lojas analisadas. As Lojas 1, 2 e 3 mostram uma concentração muito similar no Sudeste, enquanto a Loja 4 demonstra uma distribuição um pouco mais abrangente, com maior presença relativa em outras regiões.
 
-4.  ** Recomendação Estratégica:** Com base na análise das métricas e nas visualizações geradas, foi elaborado um relatório final com uma recomendação clara sobre qual loja seria a mais indicada para venda, juntamente com a justificativa detalhada da decisão.
+5.  **Recomendação Estratégica:** Com base na análise das métricas e nas visualizações geradas, foi elaborado um relatório final com uma recomendação clara sobre qual loja seria a mais indicada para venda, juntamente com a justificativa detalhada da decisão.
 
 ## 🛠️ Ferramentas e Plataformas Utilizadas
 
