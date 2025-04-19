@@ -14,20 +14,20 @@ O projeto foi desenvolvido seguindo as seguintes etapas:
 
 1.  **Carregamento e Consolidação dos Dados:** Os dados de vendas de cada uma das quatro lojas, disponibilizados em arquivos CSV, foram carregados utilizando a biblioteca `pandas` no ambiente Google Colab. Posteriormente, os dados foram consolidados em um único DataFrame para facilitar a análise comparativa.
 
-2.  ** Análise das Métricas de Desempenho:** Para cada loja, foram calculadas e analisadas as seguintes métricas:
+2.  **Análise das Métricas de Desempenho:** Para cada loja, foram calculadas e analisadas as seguintes métricas:
     * Faturamento Total:** Soma do valor de todas as vendas realizadas por cada loja.
     * Categorias Mais Populares:** Identificação da categoria de produto com maior número de vendas em cada loja.
     * Média de Avaliação dos Clientes:** Cálculo da média das avaliações de compra fornecidas pelos clientes de cada loja.
     * Produtos Mais e Menos Vendidos:** Identificação dos produtos com maior e menor frequência de venda em cada loja.
     * Custo Médio do Frete:** Cálculo da média do custo de frete para as vendas de cada loja.
 
-3.  ** Visualização dos Dados:** Para facilitar a interpretação e a apresentação dos resultados, foram gerados diversos tipos de gráficos utilizando as bibliotecas `matplotlib` e `seaborn`:
+3.  **Visualização dos Dados:** Para facilitar a interpretação e a apresentação dos resultados, foram gerados diversos tipos de gráficos utilizando as bibliotecas `matplotlib` e `seaborn`:
     * Gráfico de barras para o faturamento total por loja.
     * Gráfico de linhas para a média de avaliação dos clientes por loja.
     * Gráfico de barras lado a lado para comparar os produtos mais e menos vendidos em cada loja.
     * Gráfico de barras para o custo médio do frete por loja.
 
-4. ** Análise Geográfica das Vendas
+4. **Análise Geográfica das Vendas**
 Para explorar a distribuição geográfica das vendas de cada loja, foram gerados mapas de calor utilizando a biblioteca `seaborn`. Esses mapas visam identificar as áreas de maior densidade de vendas para cada uma das quatro lojas, utilizando as coordenadas de latitude e longitude dos dados de venda. As áreas mais claras ou com cores mais intensas nos mapas representam uma maior concentração de vendas.
 
 **Observações Preliminares dos Mapas de Calor:**
