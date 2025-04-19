@@ -1,6 +1,6 @@
 # Challange-Alura-Store
 
-Primeiro desafio da Especialização de Data Science para realizar a análise de vendas e desempenho de lojas
+Primeiro desafio da Especialização de Data Science para realizar a análise de vendas e desempenho de lojas para ajuda na tomada de decisão. 
 
 # Análise de Dados de Vendas para Decisão Estratégica de Negócios
 
