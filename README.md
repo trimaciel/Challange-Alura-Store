@@ -14,12 +14,12 @@ O projeto foi desenvolvido seguindo as seguintes etapas:
 
 1.  **Carregamento e Consolidação dos Dados:** Os dados de vendas de cada uma das quatro lojas, disponibilizados em arquivos CSV, foram carregados utilizando a biblioteca `pandas` no ambiente Google Colab. Posteriormente, os dados foram consolidados em um único DataFrame para facilitar a análise comparativa.
 
-2.  **Análise das Métricas de Desempenho:** Para cada loja, foram calculadas e analisadas as seguintes métricas:
-    * Faturamento Total:** Soma do valor de todas as vendas realizadas por cada loja.
-    * Categorias Mais Populares:** Identificação da categoria de produto com maior número de vendas em cada loja.
-    * Média de Avaliação dos Clientes:** Cálculo da média das avaliações de compra fornecidas pelos clientes de cada loja.
-    * Produtos Mais e Menos Vendidos:** Identificação dos produtos com maior e menor frequência de venda em cada loja.
-    * Custo Médio do Frete:** Cálculo da média do custo de frete para as vendas de cada loja.
+2.  **Análise das Métricas de Desempenho:**  Para cada loja, foram calculadas e analisadas as seguintes métricas:
+    * Faturamento Total: Soma do valor de todas as vendas realizadas por cada loja.
+    * Categorias Mais Populares: Identificação da categoria de produto com maior número de vendas em cada loja.
+    * Média de Avaliação dos Clientes: Cálculo da média das avaliações de compra fornecidas pelos clientes de cada loja.
+    * Produtos Mais e Menos Vendidos: Identificação dos produtos com maior e menor frequência de venda em cada loja.
+    * Custo Médio do Frete: Cálculo da média do custo de frete para as vendas de cada loja.
 
 3.  **Visualização dos Dados:** Para facilitar a interpretação e a apresentação dos resultados, foram gerados diversos tipos de gráficos utilizando as bibliotecas `matplotlib` e `seaborn`:
     * Gráfico de barras para o faturamento total por loja.
