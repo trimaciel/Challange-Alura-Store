@@ -66,7 +66,7 @@ O código do projeto está organizado em um notebook Jupyter (`.ipynb`) e segue 
 
 A análise dos dados revelou que a **Loja 4** apresenta o menor faturamento total e uma média de avaliação de clientes que não se destaca positivamente em comparação com as demais. Embora o custo médio do frete seja o menor nessa loja, esse fator isoladamente não compensa o desempenho inferior nas outras métricas principais.
 
-Com base nesses achados, o relatório final recomendou a **venda da Loja 4** como a opção mais estratégica para o Senhor João, visando a obtenção de capital para seu novo investimento. A decisão foi fundamentada na análise comparativa das lojas em relação ao faturamento, à satisfação dos clientes e aos custos de frete, considerando o cenário geral de desempenho de cada unidade.
+Com base nesses achados, o relatório final recomendou a **venda da Loja 4** como a opção mais estratégica, visando a obtenção de capital para seu novo investimento. A decisão foi fundamentada na análise comparativa das lojas em relação ao faturamento, à satisfação dos clientes e aos custos de frete, considerando o cenário geral de desempenho de cada unidade.
 
 ## ⏭️ Próximos Passos (Opcional)
 
