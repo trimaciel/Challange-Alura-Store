@@ -6,7 +6,7 @@ Primeiro desafio da Especialização de Data Science para realizar a análise de
 
 ## 🚀 Visão Geral do Projeto
 
-Este projeto teve como objetivo realizar uma análise exploratória dos dados de vendas de quatro lojas distintas, pertencentes ao Senhor João. O principal objetivo foi identificar qual das lojas seria a mais adequada para venda, visando a obtenção de capital para um novo investimento 💰. A análise abrangeu diversas métricas de desempenho das lojas, incluindo faturamento total, categorias de produtos com maior e menor demanda, média de avaliação dos clientes, produtos de maior e menor sucesso de vendas e o custo médio de frete.
+Este projeto teve como objetivo realizar uma análise exploratória dos dados de vendas de quatro lojas distintas. O principal objetivo foi identificar qual das lojas seria a mais adequada para venda, visando a obtenção de capital para um novo investimento 💰. A análise abrangeu diversas métricas de desempenho das lojas, incluindo faturamento total, categorias de produtos com maior e menor demanda, média de avaliação dos clientes, produtos de maior e menor sucesso de vendas e o custo médio de frete.
 
 ## ⚙️ Metodologia
 
